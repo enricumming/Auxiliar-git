@@ -10,6 +10,7 @@ public abstract class AbstractContender {
   private final int def;
   private final int evd;
   private int stars;
+  private int variable;
   private int win;
 
 
